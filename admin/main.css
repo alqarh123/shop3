@@ -1,0 +1,43 @@
+
+.main{
+    background-color: aqua;
+    width:  40%;
+    box-shadow: 1bx 1bx 10bx silver;
+    margin-top: 45px;
+    padding: 10px;
+}
+.input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-size: 10px;
+    font-weight: bold ;
+}
+#sub{
+    border:none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1ac15c;
+}
+
+#files{
+    padding:10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1f87cf;
+    color: wheat;
+}
+#a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: tomato;
+
+}
+.shop{
+    width: 100%;
+    background-color: #1f87cf;
+}
